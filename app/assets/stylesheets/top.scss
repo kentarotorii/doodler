@@ -1,0 +1,24 @@
+.main-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-attachment: fixed;
+    background-position: 0% 80%;
+    //background-size: 100% auto !important;
+    background-size: cover;
+    background-image: image-url("header.png");
+}
+
+.main-header img {
+    display: block;
+}
+
+header {
+    width: 100%;
+    background-color: #63466E;
+    height: 32px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
